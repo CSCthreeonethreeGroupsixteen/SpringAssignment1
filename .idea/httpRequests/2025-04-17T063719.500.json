@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-04-17T04:37:19.065+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/courses/2"
+}

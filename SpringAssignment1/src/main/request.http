@@ -1,0 +1,43 @@
+GET http://localhost:8080/courses/all
+
+### GETTING A COURSE BY ID
+
+GET http://localhost:8080/courses/2
+
+
+### DELETE A COURSE BY ID
+
+DELETE http://localhost:8080/courses/2
+
+### UPDATING A COURSE BY ID
+
+PUT http://localhost:8080/courses/1
+Content-Type: application/json
+
+{
+  "name": "CSC 313",
+  "category": "UNDERGRADUATE"
+}
+
+####
+
+
+
+
+####
+
+
+GET http://localhost:8080/courses/all
+
+
+
+
+
+
+
+
+
+
+
+
+

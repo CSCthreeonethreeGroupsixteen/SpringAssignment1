@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "CSC 313",
+    "category": "UNDERGRADUATE"
+  },
+  {
+    "id": 3,
+    "name": "CSC 113",
+    "category": "UNDERGRADUATE"
+  },
+  {
+    "id": 4,
+    "name": "CSC 311",
+    "category": "UNDERGRADUATE"
+  },
+  {
+    "id": 5,
+    "name": "CSC 312",
+    "category": "UNDERGRADUATE"
+  },
+  {
+    "id": 6,
+    "name": "CSC 223",
+    "category": "UNDERGRADUATE"
+  },
+  {
+    "id": 7,
+    "name": "CSC 123F",
+    "category": "FOUNDATION"
+  },
+  {
+    "id": 8,
+    "name": "CSC 113f",
+    "category": "FOUNDATION"
+  },
+  {
+    "id": 9,
+    "name": "CSC 501",
+    "category": "HONORS"
+  },
+  {
+    "id": 10,
+    "name": "CSC 512",
+    "category": "HONORS"
+  },
+  {
+    "id": 11,
+    "name": "CSC 513",
+    "category": "HONORS"
+  },
+  {
+    "id": 12,
+    "name": "CSC 515",
+    "category": "HONORS"
+  },
+  {
+    "id": 13,
+    "name": "CSC 113f",
+    "category": "FOUNDATION"
+  },
+  {
+    "id": 14,
+    "name": "CSC 113f",
+    "category": "FOUNDATION"
+  },
+  {
+    "id": 15,
+    "name": "CSC 113f",
+    "category": "FOUNDATION"
+  },
+  {
+    "id": 16,
+    "name": "CSC 113f",
+    "category": "FOUNDATION"
+  },
+  {
+    "id": 17,
+    "name": "CSC 113f",
+    "category": "FOUNDATION"
+  },
+  {
+    "id": 18,
+    "name": "CSC 113f",
+    "category": "FOUNDATION"
+  },
+  {
+    "id": 19,
+    "name": "CSC 113f",
+    "category": "FOUNDATION"
+  }
+]

@@ -1,0 +1,550 @@
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T151404-1.200.json
+
+###
+
+PUT http://localhost:8080/courses/1
+Content-Type: application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "CSC 313",
+  "category": "UNDERGRADUATE"
+}
+
+<> 2025-04-17T151404.200.json
+
+###
+
+DELETE http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-04-17T151404.200.txt
+
+###
+
+GET http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T151403.500.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T151403.200.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T063719-1.200.json
+
+###
+
+PUT http://localhost:8080/courses/1
+Content-Type: application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "CSC 313",
+  "category": "UNDERGRADUATE"
+}
+
+<> 2025-04-17T063719.200.json
+
+###
+
+DELETE http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-04-17T063719.200.txt
+
+###
+
+GET http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T063719.500.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T063718.200.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T060304-2.200.json
+
+###
+
+PUT http://localhost:8080/courses/1
+Content-Type: application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "CSC 313",
+  "category": "UNDERGRADUATE"
+}
+
+<> 2025-04-17T060304-1.200.json
+
+###
+
+DELETE http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-04-17T060304.200.txt
+
+###
+
+GET http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T060304.500.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T060304.200.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T060249-2.200.json
+
+###
+
+PUT http://localhost:8080/courses/1
+Content-Type: application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "CSC 313",
+  "category": "UNDERGRADUATE"
+}
+
+<> 2025-04-17T060249-1.200.json
+
+###
+
+DELETE http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-04-17T060249.200.txt
+
+###
+
+GET http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T060249.500.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T060249.200.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T055600-1.200.json
+
+###
+
+PUT http://localhost:8080/courses/1
+Content-Type: application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "CSC 313",
+  "category": "UNDERGRADUATE"
+}
+
+<> 2025-04-17T055600.200.json
+
+###
+
+DELETE http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-04-17T055600.200.txt
+
+###
+
+GET http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T055559.500.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T055559.200.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T055203-1.200.json
+
+###
+
+PUT http://localhost:8080/courses/1
+Content-Type: application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "CSC 313",
+  "category": "UNDERGRADUATE"
+}
+
+<> 2025-04-17T055203.200.json
+
+###
+
+DELETE http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-04-17T055202.200.txt
+
+###
+
+GET http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T055202.500.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-17T055202.200.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-16T224646-1.200.json
+
+###
+
+PUT http://localhost:8080/courses/1
+Content-Type: application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "CSC 313",
+  "category": "UNDERGRADUATE"
+}
+
+<> 2025-04-16T224646.200.json
+
+###
+
+DELETE http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-04-16T224646.200.txt
+
+###
+
+GET http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-16T224645.500.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-16T224645.200.json
+
+###
+
+GET http://localhost:8080/courses/1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-16T210749-3.200.json
+
+###
+
+POST http://localhost:8080/courses/add
+content-Type: Application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+   "name": "CSC 113f",
+   "category": "FOUNDATION"
+}
+
+<> 2025-04-16T210749-2.200.json
+
+###
+
+PUT http://localhost:8080/courses/1
+Content-Type: application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "CSC 313",
+  "category": "UNDERGRADUATE"
+}
+
+<> 2025-04-16T210749-1.200.json
+
+###
+
+DELETE http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-04-16T210749.200.txt
+
+###
+
+GET http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-16T210749.500.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-16T210749.200.json
+
+###
+
+GET http://localhost:8080/courses/1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-16T210726-2.200.json
+
+###
+
+POST http://localhost:8080/courses/add
+content-Type: Application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+   "name": "CSC 113f",
+   "category": "FOUNDATION"
+}
+
+<> 2025-04-16T210726-1.200.json
+
+###
+
+PUT http://localhost:8080/courses/1
+Content-Type: application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "CSC 313",
+  "category": "UNDERGRADUATE"
+}
+
+<> 2025-04-16T210726.200.json
+
+###
+
+DELETE http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-04-16T210725.200.txt
+
+###
+
+GET http://localhost:8080/courses/2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-16T210725.500.json
+
+###
+
+GET http://localhost:8080/courses/all
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-16T210725.200.json
+
+###
+
+GET http://localhost:8080/courses/1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-04-16T204133-3.200.json
+
+###
+
+POST http://localhost:8080/courses/add
+content-Type: Application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+   "name": "CSC 113f",
+   "category": "FOUNDATION"
+}
+
+<> 2025-04-16T204133-2.200.json
+
+###
+
+PUT http://localhost:8080/courses/1
+Content-Type: application/json
+Content-Length: 54
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "CSC 313",
+  "category": "UNDERGRADUATE"
+}
+
+<> 2025-04-16T204133-1.200.json
+
+###
+
